@@ -1,0 +1,40 @@
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\bin\Debug\SVM.exe.config
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\bin\Debug\SVM.exe
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\bin\Debug\SVM.pdb
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\bin\Debug\CsvHelper.dll
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\bin\Debug\System.ValueTuple.dll
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\bin\Debug\CsvHelper.xml
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\bin\Debug\System.ValueTuple.xml
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.csprojAssemblyReference.cache
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.Form1.resources
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.Properties.Resources.resources
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.csproj.GenerateResource.cache
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.csproj.CoreCompileInputs.cache
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.csproj.CopyComplete
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.exe
+C:\Users\sergio.colmenares\source\repos\SVM\SVM\obj\Debug\SVM.pdb
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.csprojResolveAssemblyReference.cache
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.Form1.resources
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.Properties.Resources.resources
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.csproj.GenerateResource.cache
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.csproj.CoreCompileInputs.cache
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.exe
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.pdb
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\SVM.exe.config
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\SVM.exe
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\SVM.pdb
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\CsvHelper.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\IKVM.Runtime.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\libsvm.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\LIBSVM.NET.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\System.ValueTuple.dll
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\CsvHelper.xml
+C:\Users\jhon quiceno\Downloads\SVM\SVM\bin\Debug\System.ValueTuple.xml
+C:\Users\jhon quiceno\Downloads\SVM\SVM\obj\Debug\SVM.csproj.CopyComplete
