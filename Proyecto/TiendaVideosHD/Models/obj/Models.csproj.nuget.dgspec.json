@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\Models\\Models.csproj": {}
+    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\Models\\Models.csproj": {
+    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\jhon quiceno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\Models\\obj\\",
+        "outputPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

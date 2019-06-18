@@ -12,7 +12,7 @@ namespace TiendaVideosHD.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View("~/Views/Shared/_login.cshtml");
         }
 
         public IActionResult Privacy()

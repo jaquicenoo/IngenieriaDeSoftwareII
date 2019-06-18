@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\TiendaVideosHD\\TiendaVideosHD.csproj": {}
+    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD\\TiendaVideosHD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\TiendaVideosHD\\TiendaVideosHD.csproj": {
+    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD\\TiendaVideosHD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\TiendaVideosHD\\TiendaVideosHD.csproj",
+        "projectUniqueName": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD\\TiendaVideosHD.csproj",
         "projectName": "TiendaVideosHD",
-        "projectPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\TiendaVideosHD\\TiendaVideosHD.csproj",
+        "projectPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD\\TiendaVideosHD.csproj",
         "packagesPath": "C:\\Users\\jhon quiceno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVideosHD\\TiendaVideosHD\\obj\\",
+        "outputPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
