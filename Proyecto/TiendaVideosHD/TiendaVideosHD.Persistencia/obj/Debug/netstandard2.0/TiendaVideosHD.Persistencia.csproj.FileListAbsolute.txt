@@ -7,3 +7,6 @@ C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVId
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Persistencia\obj\Debug\netstandard2.0\TiendaVideosHD.Persistencia.AssemblyInfo.cs
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Persistencia\obj\Debug\netstandard2.0\TiendaVideosHD.Persistencia.dll
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Persistencia\obj\Debug\netstandard2.0\TiendaVideosHD.Persistencia.pdb
+C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Persistencia\bin\Debug\netstandard2.0\TiendaVideosHD.Models.dll
+C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Persistencia\bin\Debug\netstandard2.0\TiendaVideosHD.Models.pdb
+C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Persistencia\obj\Debug\netstandard2.0\TiendaVideosHD.Persistencia.csproj.CopyComplete

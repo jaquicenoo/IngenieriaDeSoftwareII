@@ -39,3 +39,7 @@ C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVId
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Detalle.g.cshtml.cs
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\_alquilar.g.cshtml.cs
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\_comprar.g.cshtml.cs
+C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Models.dll
+C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.dll
+C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.pdb
+C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Models.pdb

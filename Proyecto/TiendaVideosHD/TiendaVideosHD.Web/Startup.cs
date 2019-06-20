@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using TiendaVideosHD.Web.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using TiendaVideosHD.Persistencia;
 
 namespace TiendaVideosHD.Web
 {
@@ -33,6 +34,12 @@ namespace TiendaVideosHD.Web
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+
+            services.AddDbContext<AppDbContext>(options =>
+             options.UseSqlServer(
+              Configuration.GetConnectionString("ConnectionString")));
+
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(

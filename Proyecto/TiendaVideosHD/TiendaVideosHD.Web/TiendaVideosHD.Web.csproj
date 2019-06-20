@@ -19,4 +19,9 @@
     <Folder Include="wwwroot\img\" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <ProjectReference Include="..\TiendaVideosHD.Persistencia\TiendaVideosHD.Persistencia.csproj" />
+  </ItemGroup>
+
 </Project>
