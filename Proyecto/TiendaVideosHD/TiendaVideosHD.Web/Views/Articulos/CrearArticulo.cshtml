@@ -1,0 +1,44 @@
+﻿@model TiendaVideosHD.Web.Models.ArticulosViewModel
+
+<h4>Crear articulo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CrearArticulo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label>
+                <input asp-for="Titulo" class="form-control" />
+                <span asp-validation-for="Titulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>
+			<div class="form-group">
+				<label asp-for="Genero" class="control-label"></label>
+				<select class="form-control" asp-for="Genero" asp-items="Html.GetEnumSelectList(typeof(Models.Generos))"></select>
+				<span asp-validation-for="Genero" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="TipoArticulo" class="control-label"></label>
+				<select class="form-control" asp-for="TipoArticulo" asp-items="Html.GetEnumSelectList(typeof(Models.TiposArticulo))"></select>
+				<span asp-validation-for="TipoArticulo" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="EstadoArticulo" class="control-label"></label>
+				<select class="form-control" asp-for="EstadoArticulo" asp-items="Html.GetEnumSelectList(typeof(Models.EstadosArticulo))"></select>
+				<span asp-validation-for="EstadoArticulo" class="text-danger"></span>
+			</div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver al listado</a>
+</div>
+

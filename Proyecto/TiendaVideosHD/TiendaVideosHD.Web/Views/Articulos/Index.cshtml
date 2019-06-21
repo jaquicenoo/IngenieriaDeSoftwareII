@@ -1,0 +1,36 @@
+﻿@model  IEnumerable<Models.Articulo>
+<h1> Lista de artículos</h1>
+<form method="get">
+	<div class="row">
+		<div class="col-md-12">
+			<table class="table table-striped">
+				<thead>
+                    <tr>
+                        <th scope="col">Titulo</th>
+                        <th scope="col">Genero</th>
+                        <th scope="col">Estado del articulo</th>
+                        <th scope="col">Tipo de articulo</th>
+                        <th></th>  
+                    </tr>
+				</thead>
+                <tbody>
+                    @{
+                        foreach (var articulo in Model)
+                        {
+                            <tr>
+                                <td>@articulo.DatosArticulo.Titulo</td>
+                                <td>@Enum.GetName(typeof(Models.Generos), articulo.DatosArticulo.Genero)</td>
+                                <td>@Enum.GetName(typeof(Models.EstadosArticulo), articulo.EstadoArticulo)</td>
+                                <td>@Enum.GetName(typeof(Models.TiposArticulo), articulo.DatosArticulo.TipoArticulo)</td>
+                                <td><a asp-action="ModificarArticulo">Modificar</a></td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+			</table>
+		</div>
+		<div class="col-md-12">
+			<button class="btn btn-primary" asp-action="CrearArticulo">Agregar</button>
+		</div>
+	</div>
+</form>

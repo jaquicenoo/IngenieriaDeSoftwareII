@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace Models
@@ -25,13 +26,14 @@ namespace Models
     #endregion
     public class DatosArticulo
     {
-        #region propiedades
-        public int Id{ get; set; }
+		#region propiedades
+		[Key]
+		public int Id{ get; set; }
         public string Titulo { get; set; }
         public double Precio { get; set; }
-        public Generos Genero { get; set; }
-        public TiposArticulo TipoArticulo { get; set; }
-        public List<Enum> Generos { get; set; }
+        public int Genero { get; set; }
+        public int TipoArticulo { get; set; }
+        //public List<Enum> Generos { get; set; }
         #endregion
         public DatosArticulo()
         {

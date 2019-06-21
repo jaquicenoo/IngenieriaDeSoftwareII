@@ -12,5 +12,6 @@ namespace TiendaVideosHD.Web.Data
             : base(options)
         {
         }
+
     }
 }

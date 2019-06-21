@@ -10,3 +10,27 @@ C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVId
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.csproj.CopyComplete
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.dll
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\TiendaVideosHD.Models.deps.json
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\TiendaVideosHD.Models.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\TiendaVideosHD.Models.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.csproj.CopyComplete
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.pdb
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\TiendaVideosHD.Models.deps.json
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\TiendaVideosHD.Models.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\TiendaVideosHD.Models.pdb
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.csprojAssemblyReference.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.csproj.CoreCompileInputs.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.AssemblyInfoInputs.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.AssemblyInfo.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.csproj.CopyComplete
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\Models\obj\Debug\netstandard2.0\TiendaVideosHD.Models.pdb

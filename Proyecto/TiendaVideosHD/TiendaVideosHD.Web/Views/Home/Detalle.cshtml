@@ -1,4 +1,5 @@
-﻿<h1> Detalle de articulo</h1>
+﻿@model  Models.Articulo
+<h1> Detalle de articulo</h1>
 <hr>
 <form method="post">
     <div class="row animated fadeIn fast">
@@ -8,8 +9,11 @@
             <a asp-controller="Home" asp-action="Index" class="btn btn-outline-danger btn-block">Regresar</a>
         </div>
         <div class="col-md-8">
-            <h3>Nombre pelicula</h3>
+            <h3>@Model.DatosArticulo.Titulo</h3>
             <hr>
+            <span class="badge badge-primary">@Enum.GetName(typeof(Models.Generos), Model.DatosArticulo.Genero)</span>
+            <span class="badge badge-secondary">@Enum.GetName(typeof(Models.TiposArticulo), Model.DatosArticulo.TipoArticulo)</span>
+            <span class="badge badge-info">@Enum.GetName(typeof(Models.EstadosArticulo), Model.EstadoArticulo)</span>
             <p>Ambitioni dedisse scripsisse iudicaretur. Cras mattis iudicium purus sit amet fermentum. Donec sed odio operae, eu vulputate felis rhoncus. Praeterea iter est quasdam res quas ex communi. At nos hinc posthac, sitientis piros Afros. Petierunt uti sibi concilium totius Galliae in diem certam indicere. Cras mattis iudicium purus sit amet fermentum.</p>
             <div>
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ModalAlquilar">Alquilar</button>

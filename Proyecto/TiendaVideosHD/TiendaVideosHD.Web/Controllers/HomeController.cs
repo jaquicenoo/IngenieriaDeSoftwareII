@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Models;
+using TiendaVideosHD.Persistencia.Gateways;
 using TiendaVideosHD.Web.Models;
 
 namespace TiendaVideosHD.Web.Controllers
@@ -13,20 +15,32 @@ namespace TiendaVideosHD.Web.Controllers
     public class HomeController : Controller
     {
         /// <summary>
+        /// gateway base contiene gateway de entidades
+        /// </summary>
+        private readonly BaseGateway _context;
+        public HomeController(BaseGateway context)
+        {
+            _context = context;
+        }
+        /// <summary>
         /// Vista inicial listado de articulos
         /// </summary>
         /// <returns></returns>
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            IEnumerable<Articulo> model = new List<Articulo>();
+            model = await _context.ArticulosGateway.ListAsync();
+            return View(model);
         }
         /// <summary>
         /// Detalle de articulo
         /// </summary>
         /// <returns></returns>
-        public IActionResult Detalle()
+        public async Task<IActionResult> Detalle(int Id)
         {
-            return View();
+            Articulo model = new Articulo();
+            model = await _context.ArticulosGateway.GetAsync(Id);
+            return View(model);
         } 
         /// <summary>
         /// Alquilar articulos

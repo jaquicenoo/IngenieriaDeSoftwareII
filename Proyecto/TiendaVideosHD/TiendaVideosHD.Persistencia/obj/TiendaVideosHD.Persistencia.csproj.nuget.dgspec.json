@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj": {}
+    "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\TiendaVideosHD.Models.csproj": {
+    "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\Models\\TiendaVideosHD.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\TiendaVideosHD.Models.csproj",
+        "projectUniqueName": "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\Models\\TiendaVideosHD.Models.csproj",
         "projectName": "TiendaVideosHD.Models",
-        "projectPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\TiendaVideosHD.Models.csproj",
+        "projectPath": "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\Models\\TiendaVideosHD.Models.csproj",
         "packagesPath": "C:\\Users\\jhon quiceno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\obj\\",
+        "outputPath": "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj": {
+    "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj",
         "projectName": "TiendaVideosHD.Persistencia",
-        "projectPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj",
+        "projectPath": "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\TiendaVideosHD.Persistencia\\TiendaVideosHD.Persistencia.csproj",
         "packagesPath": "C:\\Users\\jhon quiceno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\TiendaVideosHD.Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\TiendaVideosHD.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\TiendaVideosHD.Models.csproj": {
-                "projectPath": "C:\\Users\\jhon quiceno\\Documents\\GitHub\\IngenieriaDeSoftwareII\\Proyecto\\TiendaVIdeosHD\\Models\\TiendaVideosHD.Models.csproj"
+              "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\Models\\TiendaVideosHD.Models.csproj": {
+                "projectPath": "C:\\Users\\jhon quiceno\\Downloads\\Proyecto\\TiendaVideosHD\\Models\\TiendaVideosHD.Models.csproj"
               }
             }
           }

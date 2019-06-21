@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace Models
@@ -13,8 +14,9 @@ namespace Models
     }
     public class Articulo
     {
+		[Key]
         public int Id { get; set; }
         public DatosArticulo DatosArticulo { get; set; }
-        public EstadosArticulo EstadoArticulo { get; set; }
+        public int EstadoArticulo { get; set; }
     }
 }

@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace Models
 {
     public class DatosUsuario
     {
-        public int Id { get; set; }
+		[Key]
+		public int Id { get; set; }
         public string Nombres { get; set; }
         public string Apellidos { get; set; }
         public string Direccion { get; set; }

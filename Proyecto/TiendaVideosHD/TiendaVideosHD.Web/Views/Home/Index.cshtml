@@ -1,45 +1,25 @@
-﻿<form method="post">
+﻿@model IEnumerable<Models.Articulo>
+<form method="post">
     <div class="card-columns">
-        <div class="card">
-            <img src="~/img/no-image-icon.png" class="mx-auto d-block" height="300" width="300" />
-            <div class="card-body">
-                <h5 class="card-title">Card title that wraps to a new line</h5>
-                <p class="card-text">
-                    <span class="badge badge-primary">Terror</span>
-                    <span class="badge badge-primary">Acción</span>
-                    <br />
-                    This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                </p>
-                <button asp-controller="Home" asp-action="Detalle" class="btn btn-primary">Ver mas ..</button>
-            </div>
+        @{
+            foreach (var articulo in Model)
+            {
+                <div class="card">
+                    <img src="~/img/no-image-icon.png" class="mx-auto d-block" height="300" width="300" />
+                    <div class="card-body">
+                                <h5 class="card-title">@articulo.DatosArticulo.Titulo</h5>
+                        <p class="card-text">
+                            <span class="badge badge-primary">@Enum.GetName(typeof(Models.Generos), articulo.DatosArticulo.Genero)</span>
+                            <span class="badge badge-secondary">@Enum.GetName(typeof(Models.TiposArticulo), articulo.DatosArticulo.TipoArticulo)</span>
+                            <br />
+                            This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+                        </p>
+                        <button asp-controller="Home" asp-action="Detalle" asp-route-id="@articulo.Id" class="btn btn-primary">Ver mas ..</button>
+                    </div>
 
-        </div>
-        <div class="card">
-            <img src="~/img/no-image-icon.png" class="mx-auto d-block" height="300" width="300" />
-            <div class="card-body">
-                <h5 class="card-title">Card title that wraps to a new line</h5>
-                <p class="card-text">
-                    <span class="badge badge-primary">Terror</span>
-                    <span class="badge badge-primary">Acción</span>
-                    <br />
-                    This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                </p>
-                <button type="button" class="btn btn-primary">Ver mas ..</button>
-            </div>
-        </div>
-        <div class="card">
-            <img src="~/img/no-image-icon.png" class="mx-auto d-block" height="300" width="300" />
-            <div class="card-body">
-                <h5 class="card-title">Card title that wraps to a new line</h5>
-                <p class="card-text">
-                    <span class="badge badge-primary">Terror</span>
-                    <span class="badge badge-primary">Acción</span>
-                    <br />
-                    This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                </p>
-                <button type="button" class="btn btn-primary">Ver mas ..</button>
-            </div>
-        </div>
+                </div>
+            }
+        }
     </div>
 </form>
 

@@ -43,3 +43,97 @@ C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVId
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.dll
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.pdb
 C:\Users\jhon quiceno\Documents\GitHub\IngenieriaDeSoftwareII\Proyecto\TiendaVIdeosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Models.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.deps.json
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.runtimeconfig.json
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.Views.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.Views.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Models.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Models.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorAssemblyInfo.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorAssemblyInfo.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.TagHelpers.input.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.TagHelpers.output.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorCoreGenerate.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Detalle.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\_alquilar.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\_comprar.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.Views.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.csproj.CopyComplete
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.dll
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.pdb
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Articulos\Index.g.cshtml.cs
+C:\Users\Usuario\Downloads\IngenieriaDeSoftwareII-master\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Articulos\CrearArticulo.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.deps.json
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.runtimeconfig.json
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.runtimeconfig.dev.json
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.pdb
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.Views.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Web.Views.pdb
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Models.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Persistencia.pdb
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\bin\Debug\netcoreapp2.2\TiendaVideosHD.Models.pdb
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.csprojAssemblyReference.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.csproj.CoreCompileInputs.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorAssemblyInfo.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorAssemblyInfo.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.AssemblyInfoInputs.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.AssemblyInfo.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.TagHelpers.input.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.TagHelpers.output.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorCoreGenerate.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Articulos\CrearArticulo.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Articulos\Index.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Detalle.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\_alquilar.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\_comprar.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorTargetAssemblyInfo.cache
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.RazorTargetAssemblyInfo.cs
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.Views.pdb
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.csproj.CopyComplete
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.dll
+C:\Users\jhon quiceno\Downloads\Proyecto\TiendaVideosHD\TiendaVideosHD.Web\obj\Debug\netcoreapp2.2\TiendaVideosHD.Web.pdb

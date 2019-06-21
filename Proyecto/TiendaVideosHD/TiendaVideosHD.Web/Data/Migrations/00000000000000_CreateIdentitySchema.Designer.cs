@@ -10,7 +10,7 @@ using TiendaVideosHD.Persistencia;
 
 namespace TiendaVideosHD.Web.Data.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
+    [DbContext(typeof(ApplicationDbContext))]
     [Migration("00000000000000_CreateIdentitySchema")]
     partial class CreateIdentitySchema
     {

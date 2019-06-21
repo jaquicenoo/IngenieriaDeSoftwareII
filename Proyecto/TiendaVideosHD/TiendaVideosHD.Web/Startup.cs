@@ -14,6 +14,8 @@ using TiendaVideosHD.Web.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using TiendaVideosHD.Persistencia;
+using TiendaVideosHD.Persistencia.Gateways;
+using TiendaVideosHD.Web.Models;
 
 namespace TiendaVideosHD.Web
 {
@@ -35,13 +37,9 @@ namespace TiendaVideosHD.Web
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddDbContext<AppDbContext>(options =>
-             options.UseSqlServer(
-              Configuration.GetConnectionString("ConnectionString")));
+			services.AddSingleton(m => new BaseGateway());
 
-            services.AddScoped<ICategoryRepository, CategoryRepository>();
-
-            services.AddDbContext<ApplicationDbContext>(options =>
+			services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>()
@@ -79,6 +77,10 @@ namespace TiendaVideosHD.Web
                 options.AccessDeniedPath = "/Identity/Account/AccessDenied";
                 options.SlidingExpiration = true;
             });
+
+            services.AddDbContext<TiendaVideosHDContext>(options =>
+            options.UseSqlServer(
+            Configuration.GetConnectionString("ConnectionString")));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
